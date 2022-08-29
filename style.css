@@ -1,0 +1,109 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.carusel {
+    margin-top: -108px;
+}
+
+.biz_kimik {
+    width: 600px;
+    height: 700px;
+
+    margin-top: -10px;
+}
+
+.section_biz_kimik {
+    background-color: aliceblue;
+    margin-top: -20px;
+    padding: 10px;
+}
+
+.group11 {
+    width: fit-content;
+}
+
+.g-417 {
+    margin-top: -112px;
+    margin-left: -60px;
+}
+
+.g24 {
+    width: 80px;
+
+}
+
+.lg-display ul li {
+    font-size: 20px;
+    list-style: none;
+}
+
+@media(max-width:991.98px) {
+    .lg-display {
+        display: none;
+    }
+}
+
+.owl-carousel .owl-item img {
+    width: inherit !important;
+
+    position: absolute;
+    right: 0;
+
+}
+
+.item {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.g415 {
+    margin-top: -116px;
+}
+
+.G-417 {
+    margin-top: -53px;
+}
+
+
+
+/* Style the buttons */
+.btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.btn.active {
+    background-color: green;
+    color: white;
+}
+
+#products-id .products-img {
+    height: 185px;
+}
+
+footer .container-fluid {
+
+    top: 195px;
+    left: 98px;
+}
+
+.footer-img {
+    height: 610px;
+    z-index: -1;
+}
+
+
+.footer-img1 {
+    height: 250px;
+}
